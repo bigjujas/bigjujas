@@ -5,20 +5,20 @@
   📍 Brasil | 📧 jpsx.silva@gmail.com
 </p>
 
-<div align="center" id="badges">
+<p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-564729300/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/joaopedro.ssilvaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>
+</p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou João Pedro, desenvolvedor em formação, cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas** pela UniSenac. Tenho grande interesse em desenvolvimento web, engenharia de dados e cloud computing.  
+Sou João Pedro, desenvolvedor em formação, cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas** pela UniSenac. Tenho grande interesse em desenvolvimento web, **engenharia de dados** e **cloud computing**.  
 Atualmente, estou focado em **Engenharia de Dados**, estudando e aplicando ferramentas e conceitos como **pipelines de dados, ETL e serviços AWS (como S3, Lambda e Redshift)**.
 
 Gosto de aprender na prática, me envolver em projetos desafiadores e colaborar em soluções que impactam pessoas de verdade.
@@ -27,9 +27,9 @@ Gosto de aprender na prática, me envolver em projetos desafiadores e colaborar 
 
 ### 🛠️ Habilidades Técnicas
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,py,aws" alt="My Skills"/>
-</div>
+</p>
 
 - **Versionamento**: Git & GitHub  
 - **Ferramentas**: Insomnia, VS Code, Postman  
@@ -42,7 +42,7 @@ Gosto de aprender na prática, me envolver em projetos desafiadores e colaborar 
 ### 📚 Atualmente Estudando
 
 - Fundamentos de **Engenharia de Dados**
-- **AWS**
+- **AWS (S3, Lambda, Redshift, Glue...)**
 - Algoritmos e Estrutura de Dados
 - Modelagem de **bancos relacionais (MySQL)**
 - Criação e consumo de **APIs RESTful**
@@ -64,3 +64,14 @@ Sempre aberto a parcerias, freelas e projetos colaborativos. Se quiser trocar id
 
 📫 **jpsx.silva@gmail.com**  
 📍 **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-564729300/)**
+
+---
+
+### 🧠 Fun Fact
+
+```bash
+while(alive) {
+   code();
+   learn();
+   takeCoffeeBreak();
+}
