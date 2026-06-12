@@ -1,77 +1,71 @@
-<h1 align="center">João Pedro Silva</h1>
-<p align="center">
-  💻 Estudante de Análise e Desenvolvimento de Sistemas <br/>
-  🚀 Apaixonado por tecnologia, dados e soluções criativas <br/>
-  📍 Brasil | 📧 jpsx.silva@gmail.com
-</p>
+# Olá, eu sou o João Pedro 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-564729300/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/joaopedro.ssilvaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</p>
+**Engenheiro de Dados Jr** | AWS Certified Cloud Practitioner ☁️
+
+📍 Pelotas, RS — Brasil  
+📧 jpsx.silva@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedro-ssilva)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpsx.silva@gmail.com)
 
 ---
 
-### 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre mim
 
-Sou João Pedro, desenvolvedor em formação, cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas** pela UniSenac. Tenho grande interesse em desenvolvimento web, **engenharia de dados** e **cloud computing**.  
-Atualmente, estou focado em **Engenharia de Dados**, estudando e aplicando ferramentas e conceitos como **pipelines de dados, ETL e serviços AWS (como S3, Lambda e Redshift)**.
+Sou engenheiro de dados em início de carreira, cursando o 5º semestre de **Análise e Desenvolvimento de Sistemas** (UNISenac, conclusão em Dez/2026).
 
-Gosto de aprender na prática, me envolver em projetos desafiadores e colaborar em soluções que impactam pessoas de verdade.
+No programa de bolsas da **Compass UOL** (trilha de Engenharia de Dados), construí um **data lake completo na AWS**: ingestão de milhões de registros no S3 em arquitetura de camadas (raw → trusted → refined), enriquecimento via API com Lambda, transformações em PySpark no Glue com conversão para Parquet, modelagem dimensional em Star Schema e dashboards no QuickSight — sempre validando cada etapa com SQL no Athena e de olho em custo e performance.
 
----
-
-### 🛠️ Habilidades Técnicas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,py,aws" alt="My Skills"/>
-</p>
-
-- **Versionamento**: Git & GitHub  
-- **Ferramentas**: Insomnia, VS Code, Postman  
-- **Design & UX/UI**: Figma, prototipagem, responsividade  
-- **Cloud**: Estudando serviços da AWS voltados para dados  
-- **Dados**: Noções de pipelines, ETL, SQL e integração com APIs
+Antes da tecnologia, empreendi como **produtor de eventos** (público médio de 1.000+ pessoas), onde os dashboards de venda de ingressos guiavam minhas decisões de preço e divulgação. Foi ali que entendi, na prática, o valor de negócio por trás dos dados — e é essa visão que levo para cada pipeline que construo.
 
 ---
 
-### 📚 Atualmente Estudando
+## 🛠️ Stack
 
-- Fundamentos de **Engenharia de Dados**
-- **AWS (S3, Lambda, Redshift, Glue...)**
-- Algoritmos e Estrutura de Dados
-- Modelagem de **bancos relacionais (MySQL)**
-- Criação e consumo de **APIs RESTful**
-- Boas práticas com **TypeScript e React**
+**Dados & Processamento**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white)
 
-### 🌱 Projetos em Andamento
+**Cloud (AWS)**
 
-- ⚙️ Sistema de Biblioteca (CLI) com TypeScript  
-- 🍕 Website para pizzaria com carrinho e integração via WhatsApp  
-- 📊 Dashboard de métricas com gráficos usando React + Tailwind  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=task&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-8C4FFF?style=for-the-badge&logo=task&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-FF9900?style=for-the-badge&logo=task&logoColor=white)
+![QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=task&logoColor=white)
 
----
+**Ferramentas**
 
-### 🤝 Vamos conversar!
-
-Sempre aberto a parcerias, freelas e projetos colaborativos. Se quiser trocar ideias, bater um papo técnico ou criar algo juntos, é só chamar:
-
-📫 **jpsx.silva@gmail.com**  
-📍 **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-564729300/)**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ---
 
-### 🧠 Fun Fact
+## 🎓 Certificações
 
-```bash
-while(alive) {
-   code();
-   learn();
-   takeCoffeeBreak();
-}
+- **AWS Certified Cloud Practitioner** — Dez/2025
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopedro-ssilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-ssilva&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
+
+---
+
+### 🧠 Fun fact
+
+```python
+while alive:
+    build_pipelines()
+    learn()
+    take_coffee_break()
+```
+
+💬 Aberto a conversas técnicas, projetos e oportunidades — é só chamar!
