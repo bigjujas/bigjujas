@@ -52,13 +52,6 @@ Antes da tecnologia, empreendi como **produtor de eventos** (público médio de 
 
 ---
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopedro-ssilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-ssilva&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
-
----
-
 ### 🧠 Fun fact
 
 ```python
